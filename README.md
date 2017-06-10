@@ -44,5 +44,4 @@ References :
    by Sungjae Han ,Geunseong Jung , Minsoo Ryu,Byung-Uk Choi and Jaehyuk Cha
 
 2. A Comparison of Voice Controlled and Mouse Controlled Web Browsing
-   by Kevin Christian,Bill Kules,Ben Shneiderman,Adel Youssef
-   
+   by Kevin Christian,Bill Kules,Ben Shneiderman,Adel Youssef   
